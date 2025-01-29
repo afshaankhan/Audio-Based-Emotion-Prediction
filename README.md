@@ -28,8 +28,10 @@ The **CNN-LSTM model** achieved the best performance.
 - Extend the system to **real-time emotion detection** in applications.  
 
 ## References 📚  
-- [CREMA-D Dataset](https://github.com/CheyneyComputerScience/CREMA-D)  
-- [TESS Dataset](https://tspace.library.utoronto.ca/handle/1807/24487)  
+- [CREMA-D Dataset](https://github.com/CheyneyComputerScience/CREMA-D)
+- [TESS Dataset](https://tspace.library.utoronto.ca/handle/1807/24487)
+- [Feature Extraction](https://athina-b.medium.com/audio-signal-feature-extraction-for-analysis-507861717dc1)
+- [Librosa](https://blog.neurotech.africa/audio-analysis-with-librosa/)
 
 ## License 📜  
 This project is for educational purposes. Feel free to use it with credit.  
