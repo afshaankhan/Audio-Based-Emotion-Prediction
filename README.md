@@ -19,11 +19,6 @@ These datasets provide high-quality WAV files with labeled emotions.
 
 The **CNN-LSTM model** achieved the best performance.
 
-## Installation  
-To run this project, install the required dependencies:  
-```bash
-pip install -r requirements.txt
-
 ## Results 🏆  
 - **CNN-LSTM achieved high accuracy** in predicting emotions.  
 - **Feature extraction** significantly improved classification performance.  
@@ -38,3 +33,11 @@ pip install -r requirements.txt
 
 ## License 📜  
 This project is for educational purposes. Feel free to use it with credit.  
+
+
+## Installation  
+To run this project, install the required dependencies:  
+```bash
+pip install -r requirements.txt
+
+
