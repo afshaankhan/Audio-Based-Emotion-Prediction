@@ -1,4 +1,4 @@
-# Audio-Based Emotion Prediction 🎵🔊
+# Audio-Based Emotion Prediction 
 
 ## Overview  
 This project utilizes deep learning and audio signal processing techniques to **predict human emotions** from speech. By analyzing features like tone, pitch, and intensity, the model classifies emotions such as **Anger, Happiness, Sadness, Neutral, Fear, and Disgust**.
@@ -19,21 +19,21 @@ These datasets provide high-quality WAV files with labeled emotions.
 
 The **CNN-LSTM model** achieved the best performance.
 
-## Results 🏆  
+## Results  
 - **CNN-LSTM achieved high accuracy** in predicting emotions.  
 - **Feature extraction** significantly improved classification performance.  
 
-## Future Work 🚀  
+## Future Work   
 - Enhance model interpretability using **Explainable AI (XAI)**.  
 - Extend the system to **real-time emotion detection** in applications.  
 
-## References 📚  
+## References   
 - [CREMA-D Dataset](https://github.com/CheyneyComputerScience/CREMA-D)
 - [TESS Dataset](https://tspace.library.utoronto.ca/handle/1807/24487)
 - [Feature Extraction](https://athina-b.medium.com/audio-signal-feature-extraction-for-analysis-507861717dc1)
 - [Librosa](https://blog.neurotech.africa/audio-analysis-with-librosa/)
 
-## License 📜  
+## License  
 This project is for educational purposes. Feel free to use it with credit.  
 
 
